@@ -78,10 +78,8 @@ This project presents a machine learning-based approach to predict **corporate b
 
 ```
 📦 bankruptcy-prediction/
-├── data/                # Dataset files
 ├── notebooks/           # Jupyter notebooks for modeling
-├── models/              # Saved models
-├── results/             # Evaluation reports and graphs
+├── data/                # Dataset files
 ├── requirements.txt     # Python dependencies
 └── README.md            # Project description (this file)
 ```
